@@ -1,4 +1,11 @@
 # UAV-AdversarialLearning
+## PyTorch Code for 'Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach'
+
+## Introduction
+
+PyTorch Implementation of our ICCV 2019 paper ["Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach
+"](https://arxiv.org/abs/1908.03856).
+
 ## Environment
 * Python 2.7 or 3.6
 * Pytorch 0.4.0
@@ -50,4 +57,15 @@ Google Drive: https://drive.google.com/file/d/1rxqr0Cq0y9cXhdWyNd_R_8cd68exD1wn/
 ├── test_net.py
 ├── trainval_net.py
 └── trainval_net_monitor.py
+```
+## Citation
+
+If you find this code useful, please cite the following paper:
+```
+@article{wu2019delving,
+  title={Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach},
+  author={Wu, Zhenyu and Suresh, Karthik and Narayanan, Priya and Xu, Hongyu and Kwon, Heesung and Wang, Zhangyang},
+  journal={arXiv preprint arXiv:1908.03856},
+  year={2019}
+}
 ```
