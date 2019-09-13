@@ -37,6 +37,8 @@ Google Drive: https://drive.google.com/file/d/13xdLBfIWGYrjpT0Z3miAPKnKNDjNqLS9/
 ## UAVDT Trained Model (w/o Adversarial Loss and w/ Adversarial Loss)
 Google Drive: https://drive.google.com/file/d/1rxqr0Cq0y9cXhdWyNd_R_8cd68exD1wn/view?usp=sharing
 
+## VisDrone Meta-data Link
+Google Drive: https://drive.google.com/file/d/1FcdPJXggs31HpYsNfqyZFMsI3qwPB54Q/view?usp=sharing
 
 ## Project Directory Layout
 ```
