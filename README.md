@@ -63,7 +63,7 @@ Google Drive: https://drive.google.com/file/d/1FcdPJXggs31HpYsNfqyZFMsI3qwPB54Q/
 ## Citation
 
 If you find this code useful, please cite the following paper:
-```
+```BibTex
 @article{wu2019delving,
   title={Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach},
   author={Wu, Zhenyu and Suresh, Karthik and Narayanan, Priya and Xu, Hongyu and Kwon, Heesung and Wang, Zhangyang},
