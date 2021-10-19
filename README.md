@@ -32,7 +32,7 @@ done
 Google Drive: https://drive.google.com/file/d/1kw-QpnBW5RkKfoG9iH83DxH9uhCgIxix/view?usp=sharing
 
 ## UAVDT Data (Training+Testing) in Pascal VOC Format
-Google Drive: https://drive.google.com/file/d/13xdLBfIWGYrjpT0Z3miAPKnKNDjNqLS9/view?usp=sharing
+Google Drive: https://drive.google.com/file/d/1pvMjEr6LsrISpx-GuOLJW53toF35JkRy/view?usp=sharing
 
 ## UAVDT Trained Model (w/o Adversarial Loss and w/ Adversarial Loss)
 Google Drive: https://drive.google.com/file/d/1rxqr0Cq0y9cXhdWyNd_R_8cd68exD1wn/view?usp=sharing
